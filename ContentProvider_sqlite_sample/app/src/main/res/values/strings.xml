@@ -1,0 +1,4 @@
+<resources>
+    <string name="hello">Hello World, ContentProviderFullDemoActivity!</string>
+    <string name="app_name">ContentProvider_sqlite_sample</string>
+</resources>
